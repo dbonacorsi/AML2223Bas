@@ -1,2 +1,2 @@
 # AML2223Bas
-Repo skeleton for AMLBAs course. 
+Repo skeleton for the AMLBas course. 
